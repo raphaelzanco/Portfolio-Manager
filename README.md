@@ -45,4 +45,4 @@ Tired of cumbersome and error-prone spreadsheets? **Portfolio Manager** was buil
   - View total units held, average price and dividend received
  
 ## 🎨UML - Use Cases Diagram
-![Use Cases DIagram from UML (also inside one of this repository folder)](https://github.com/raphaelzanco/Portfolio-Manager/blob/1a84d8f2b71e9dcdb0743287cd3578c9112969be/UML%20Diagrams/Portifolio%20Management%20Use%20Cases.jpg)
+![Use Cases DIagram from UML (also inside one of this repository folder)]
