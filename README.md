@@ -2,10 +2,10 @@
 A portable C++ application made to help you keep track of your finances.
 
 ## 📑Table of Content
-- [About The Project]([##-About-The-Project])
+- [About The Project]([##About-The-Project])
 - [Features]([##-Features])
-- [UML - Use Cases Diagram]([##--UML-Use-Cases-Diagram])
-- [UML - Class Diagram]([##--UML---Class-Diagram])
+- [UML - Use Cases Diagram]([##UML-Use-Cases-Diagram])
+- [UML - Class Diagram]([##UML---Class-Diagram])
 
 ## 💡About The Project
 Nowadays, investors have access to a large pool of financial products, being able to expose themselves to a large variety of markets (Stocks, Bonds, REITs, ETFs, and so on).
