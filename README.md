@@ -56,6 +56,30 @@ Tired of cumbersome and error-prone spreadsheets? **Portfolio Manager** was buil
 **📌Warning: This program was built and test in a Linux Environment. 
 Unexpected behaviours may occur if runned in a Windows System**
 
-First and foremost, download all files inside the "Source Code" folder. Those .hpp and .cpp are files are the classes which compose this application, acting as the heart of the program.
+Follow the steps bellow to compile and run the program:
 
-Afterwards, download the shell script "compilePortfolioManager.sh": that will save you a lot of time as it automatically will compile all .cpp files and create an executable called "portfolioManager".
+**1. Download the files**
+   
+Download all .hpp and .cpp the inside the "Source Code" folder as well as the shell script "compilePortfolioManager.sh".
+
+The .hpp and .cpp files are the heart of this program ! It won't work without them. The shellscript will help you save time and compile all files into an exacutable one.
+
+Make sure to place them all in the same directory !
+
+**2. Go to your directory**
+
+If you didn't open your directory path in your terminal, use the *"cd <directory>"* command to go inside the folder you stored this projects files.
+
+**3. Make the shell script executable**
+
+Run the line ahead to make your shell script executable: *"chmod +x compilePortfolioManager.sh"*.
+
+**4. Compile the program**
+
+Run the shell script with *"./compilePortfolioManager.sh"*. Afterwards, you're expected to receive an executable file called portfolioManager
+
+**5. Run the application**
+
+Once the script finishes, start the program with the command *"./portfolioManager"*.
+
+Now, have a fun time !
