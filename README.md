@@ -6,6 +6,7 @@ A portable C++ application made to help you keep track of your finances.
 - [Features](#features)
 - [UML - Use Cases Diagram](#uml---use-cases-diagram)
 - [UML - Class Diagram](#uml---class-diagram)
+- [Getting Started](#getting-started)
 
 ## 💡About The Project
 Nowadays, investors have access to a large pool of financial products, being able to expose themselves to a large variety of markets (Stocks, Bonds, REITs, ETFs, and so on).
@@ -50,3 +51,11 @@ Tired of cumbersome and error-prone spreadsheets? **Portfolio Manager** was buil
 
 ## 🖼️UML - Class Diagram
 ![Class Diagram from UML (also inside one of this repository folder!)](https://github.com/raphaelzanco/Portfolio-Manager/blob/3ecdbb42265f12828dbd09fe8522cab3e39090fd/UML%20Diagrams/Portfolio%20Management%20Classes.jpg)
+
+## 🚀Getting Started
+**📌Warning: This program was built and test in a Linux Environment. 
+Unexpected behaviours may occur if runned in a Windows System**
+
+First and foremost, download all files inside the "Source Code" folder. Those .hpp and .cpp are files are the classes which compose this application, acting as the heart of the program.
+
+Afterwards, download the shell script "compilePortfolioManager.sh": that will save you a lot of time as it automatically will compile all .cpp files and create an executable called "portfolioManager".
