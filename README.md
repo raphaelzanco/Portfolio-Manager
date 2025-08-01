@@ -4,7 +4,8 @@ A portable C++ application made to help you keep track of your finances.
 ## 📑Table of Content
 - [About The Project]([##-About-The-Project])
 - [Features]([##-Features])
-- [UML - Use Cases Diagram]([##--UML---Class-Diagram])
+- [UML - Use Cases Diagram]([##--UML-Use-Cases-Diagram])
+- [UML - Class Diagram]([##--UML---Class-Diagram])
 
 ## 💡About The Project
 Nowadays, investors have access to a large pool of financial products, being able to expose themselves to a large variety of markets (Stocks, Bonds, REITs, ETFs, and so on).
@@ -45,4 +46,6 @@ Tired of cumbersome and error-prone spreadsheets? **Portfolio Manager** was buil
   - View total units held, average price and dividend received
  
 ## 🎨UML - Use Cases Diagram
-![Use Cases DIagram from UML (also inside one of this repository folder)]
+![Use Cases DIagram from UML (also inside one of this repository folder)](https://github.com/raphaelzanco/Portfolio-Manager/blob/b1a77278778d640eaec2c037a38a2f1a6b9b4224/UML%20Diagrams/Portfolio%20Management%20Use%20Cases.jpg)
+
+## 🖼️UML - Class Diagram
