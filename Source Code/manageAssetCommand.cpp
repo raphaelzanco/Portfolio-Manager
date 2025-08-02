@@ -170,11 +170,8 @@ void ManageAssetCommand::deleteAsset()
             }
         }
     }
-
-    std::cin.clear();
-    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+    
     this->portfolio.deleteAsset(tickerSymbol);
-
     return;
 }
 
