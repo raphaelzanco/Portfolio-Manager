@@ -151,7 +151,7 @@ int main()
             updatedFile << j.dump(4) << std::endl;
             
             system("clear");
-            std::cout << "Successfully saved your portfolio on '" << filename << "." << std::endl;
+            std::cout << "Successfully saved your portfolio on '" << filename << "'." << std::endl;
             break;
         }
         else
