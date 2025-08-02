@@ -86,13 +86,10 @@ Once the script finishes, start the program with the command *"./portfolioManage
 Now, have a good time !
 
 ## ✉️Contact
-Thank you so much for showing interest in the Portfolio Manager project !
+Thank you for your interest in the Portfolio Manager project! I developed it with the goal of creating something impactful for our day-to-day lives.
 
-I developed it having in mind real-world impact, being something that could be useful on our day-to-day lifes..
+I welcome any and all feedback. If you encounter a bug, have a suggestion for a new feature, or just want to send a message, please feel free to reach out.
 
-Did you enconter any bugs while trying this project out ? Has a suggestion on how to improve it or a new feature to be implemented ?
-Or just wants to send me a message ?
-
-Well, fell free to reach out on raphaelzanco@gmail.com
+You can contact me at: raphaelzanco@gmail.com
 
 Wish you all the best ! See you on my next project.
