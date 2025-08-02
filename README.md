@@ -86,7 +86,7 @@ Once the script finishes, start the program with the command *"./portfolioManage
 Now, have a good time !
 
 ## ✉️Contact
-Thank you for your interest in the Portfolio Manager project! I developed it with the goal of creating something impactful for our day-to-day lives.
+Thank you for your interest in the Portfolio Manager project ! I developed it with the goal of creating something impactful for our day-to-day lives.
 
 I welcome any and all feedback. If you encounter a bug, have a suggestion for a new feature, or just want to send a message, please feel free to reach out.
 
