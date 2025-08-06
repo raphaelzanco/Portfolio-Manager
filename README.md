@@ -7,6 +7,7 @@ A portable C++ application made to help you keep track of your finances.
 - [UML - Use Cases Diagram](#uml---use-cases-diagram)
 - [UML - Class Diagram](#uml---class-diagram)
 - [Getting Started](#getting-started)
+- [Walkthrough](#walkthrough)
 - [Contact](#contact)
 
 ## 💡About The Project
@@ -84,6 +85,15 @@ Run the shell script with *"./compilePortfolioManager.sh"*. Afterwards, you're e
 Once the script finishes, start the program with the command *"./portfolioManager"*.
 
 Now, have a good time !
+
+## 🗺️Walkthrough
+1. Load/Create New Asset
+   
+Whenever you run the portfolio Manager software you are prompted to either load a .json file (a portfolio) or start a new one.
+
+2. Manage Assets
+  - Add Asset
+    - Insert Ticker Symbol, Asset Type (e.g stocks, REIT, ETF) and currency to add a new asset 
 
 ## ✉️Contact
 Thank you for your interest in the Portfolio Manager project ! I developed it with the goal of creating something impactful for our day-to-day lives.
