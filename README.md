@@ -87,13 +87,56 @@ Once the script finishes, start the program with the command *"./portfolioManage
 Now, have a good time !
 
 ## 🗺️Walkthrough
-1. Load/Create New Asset
-   
-Whenever you run the portfolio Manager software you are prompted to either load a .json file (a portfolio) or start a new one.
+**1. Load/Create Portfolio**
 
-2. Manage Assets
+Whenever you run the portfolio Manager software you are prompted to either load a .json file (a portfolio) or start a new one.
+- Load Existing Portfolio
+  - To load an existing potfolio you must insert your .json file name (may not include the ".json" extension).
+   If successfully loaded,you will be shown the total number of assets, transactions and unique currencies loaded
+- Create a New Portfolio
+  - You will be prompteed to name your new portfolio. After exiting the program, you will receive a file of the given name with the ".json" extension
+
+**2. Manage Assets**
   - Add Asset
-    - Insert Ticker Symbol, Asset Type (e.g stocks, REIT, ETF) and currency to add a new asset 
+    - Insert ticker symbol, asset type (e.g stocks, REIT, ETF) and currency to add a new asset
+  - Edit Asset
+    - Edit asset tycker symbol, type or currency
+  - Delete Asset
+    - Delete an asset from a given ticker symbol from your portfolio
+  - View Assets
+    - Show all ticker symbols (assets) known to your portfolio
+
+**3. Add Transactions**
+- Purchase Transaction
+  - Insert valid ticker symbol (known asset), number of traded shares, price per share, date and transaction currency to register/make a purchase
+- Selling Transaction
+  - Insert valid ticker symbol (known asset), number of traded shares (cannot be more than already owned), price per share, date and transaction currency to register/make a sale
+- Dividend Transaction
+  - Insert valid ticker symbol (known asset), dividend per share, number of shares (cannot receive dividend from more shares than owned), total dividend,
+date and transaction currency to register/receive dividends
+
+**4. View Transactions History**
+- Purchase Transactions
+  - Shows date, transaction type, ticker symbol, number of traded shares, unit price and currency
+- Selling Transactions
+  -Shows date, transaction type, ticker symbol, number of traded shares, unit price, profit/loss ratio and currency
+- Movement Transactions
+  - Will show both purchase and selling transactions history, together
+- Dividend Transactions
+  - Shows date, ticker symbol, dividend per share, number of shares part of the dividend distribution, total dividend and currency
+
+ **4. View Portfolio**
+ - View Current Holdings
+   - Group your assets and show them by currency and asset class type
+   - Shows your assets ticker symbol, holded units, average price, dividends received and total invested. Finally,exhibits total allocation for each class per currency
+- Check Converted Portfolio (for multi-currency portfolios only)
+  - When a portfolio has assets from more than one currency, you can use this functionality
+  - First, you will be shown all currencies and total allocation for each
+  - Afterwards, you may choose one of those currencies and pass all exchange rates to that one target coin to know your total allocation of all your portfolio/currencies on that one coin
+
+ **5. Exit**
+ 
+ Saves all modifications, updates or create your ".json" portfolio file
 
 ## ✉️Contact
 Thank you for your interest in the Portfolio Manager project ! I developed it with the goal of creating something impactful for our day-to-day lives.
