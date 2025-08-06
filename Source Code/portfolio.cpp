@@ -83,7 +83,7 @@ void Portfolio::registerPurchaseTransaction(std::string& tickerSymbol, double nu
 void Portfolio::registerSellingTransaction(std::string& tickerSymbol, double numShares, double price, double tickerAveragePrice)
 {
     std::string date, currency;
-    double profitMargin = (price - tickerAveragePrice)*100;
+    double profitMargin = ((price - tickerAveragePrice)/tickerAveragePrice) * 100;
 
     std::cout << "Insert Purchase Date (YYYY-MM-DD): ";
 
